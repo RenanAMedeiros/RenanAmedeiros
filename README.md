@@ -4,11 +4,6 @@
   Desenvolvedor Full Stack | Analista de Sistemas | Tech Lead na TREO Tecnologia
 </p>
 
-<p align="left">
-  Atuo com desenvolvimento de sistemas, automações, integrações com APIs, bancos de dados e soluções web.
-  Desde 2022 venho evoluindo na área de tecnologia, buscando criar soluções práticas, escaláveis e que gerem valor para o negócio.
-</p>
-
 <img 
   src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" 
   width="320px" 
@@ -16,9 +11,14 @@
   alt="Computador"
 />
 
+<p align="left">
+  Atuo com desenvolvimento de sistemas, automações, integrações com APIs, bancos de dados e soluções web.
+  Desde 2022 venho evoluindo na área de tecnologia, buscando criar soluções práticas, escaláveis e que gerem valor para o negócio.
+</p>
+
 ---
 
-### Sobre mim
+## Sobre mim
 
 <p align="left">
   Sou apaixonado por tecnologia, automação de processos e desenvolvimento de soluções que otimizam rotinas operacionais.
@@ -58,19 +58,19 @@
 
 ## Tech Stack
 
-
 <p align="left">
-  <img alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="Django" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
-  <img alt="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img alt="PHP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  <img alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img alt="Python" title="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />&nbsp;
+  <img alt="Django" title="Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />&nbsp;
+  <img alt="Node.js" title="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />&nbsp;
+  <img alt="React" title="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />&nbsp;
+  <img alt="JavaScript" title="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />&nbsp;
+  <img alt="HTML5" title="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />&nbsp;
+  <img alt="CSS3" title="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />&nbsp;
+  <img alt="PHP" title="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />&nbsp;
+  <img alt="MySQL" title="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />&nbsp;
+  <img alt="Git" title="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </p>
+
 ---
 
 ## Áreas de atuação
@@ -93,11 +93,9 @@
   <a href="https://criarmeulink.com.br/u/1714420364" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-
   <a href="https://www.linkedin.com/in/renan-a-medeiros/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="https://www.instagram.com/_r.med/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
