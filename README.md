@@ -23,15 +23,11 @@
 <h2>GitHub Analytics</h2>
 
 <p align="left">
-  <a href="https://github.com/RenanAmedeiros">
-    <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAmedeiros&layout=compact&theme=dark" 
-      alt="Top Languages"
-    />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RenanAMedeiros&theme=github_dark"
+    alt="Top Languages by Repo"
+  />
 </p>
-
 
 &nbsp; Tech Stack
 
